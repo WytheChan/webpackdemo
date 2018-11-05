@@ -1,0 +1,14 @@
+body{
+    background: #f5f5f5;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background: #ddd;
+    font-size:0.32rem;
+    color: $font-color;
+}
+.box+img{
+    width: 2rem;
+    height: 2rem;
+}
